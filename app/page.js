@@ -45,7 +45,7 @@ export default async function Page() {
             </div>
 
             <Link
-              href="/index"
+              href="/pokedex"
               className="flex items-center gap-2 px-6 py-3 border-2 border-black rounded-full font-bold text-sm sm:text-base bg-white hover:bg-gray-100 transition-colors"
             >
               INDEX
