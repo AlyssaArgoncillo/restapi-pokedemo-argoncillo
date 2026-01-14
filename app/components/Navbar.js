@@ -24,7 +24,7 @@ export default function Navbar({ onSearch }) {
           </Link>
 
           <Link
-            href="/index"
+            href="/pokedex"
             className="text-black text-base font-medium hover:text-blue-600 transition-colors duration-200"
           >
             INDEX
@@ -56,7 +56,7 @@ export default function Navbar({ onSearch }) {
             </Link>
 
             <Link
-              href="/index"
+              href="/pokedex"
               onClick={() => setIsOpen(false)}
               className="text-black text-base font-medium hover:text-blue-600 transition-colors duration-200 py-3"
             >

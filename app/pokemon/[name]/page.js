@@ -196,7 +196,7 @@ export default async function PokemonDetail({ params }) {
 
       <div className="max-w-5xl mx-auto mt-6 flex justify-center sm:justify-end">
         <Link
-          href="/index"
+          href="/pokedex"
           className="inline-flex items-center justify-center px-5 py-2 bg-black text-white font-semibold rounded-full hover:translate-y-0.5 transition-transform"
         >
           Back to list
